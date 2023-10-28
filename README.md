@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Student. Tutor.
 --------------------------
 
-I am at my second year of Computer Science course ( AGH University of Kraków ). Currently looking for a job as a software developer.
+I am at my second year of Computer Science course ( AGH University of Kraków ). 
+
+Currently looking for a job as a software developer.
 
 * 🧠  I'm learning NextJS
 
