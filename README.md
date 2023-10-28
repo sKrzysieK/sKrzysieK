@@ -4,7 +4,9 @@ Hi, My name is Krzysiek
 Developer. Student. Tutor.
 --------------------------
 
-I am at my second year of Computer Science course ( AGH University of Kraków ). Currently looking for a job as a software developer.
+I am at my second year of Computer Science course ( AGH University of Kraków ). 
+
+Currently looking for a job as a software developer.
 
 * 🧠  I'm learning NextJS
 
