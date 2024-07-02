@@ -1,7 +1,7 @@
 Hi, My name is Krzysiek
 =======================
 
-Developer. Student. Tutor.
+Software Developer. Student. Tutor.
 --------------------------
 
 I am at my second year of Computer Science course ( AGH University of Kraków ). 
