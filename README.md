@@ -1,10 +1,20 @@
 Hi, My name is Krzysiek
 =======================
 
-Software Developer. Student. Tutor.
+Software Developer
 --------------------------
 
-I am at my second year of Computer Science course ( AGH University of Kraków ). 
+Ambitious, detail-oriented software engineer, specializing in frontend development.
+Committed to write clean, well-structured, high-quality code using cutting-edge technologies.
+Passionate about building coherent user interfaces with great UX, both mobile and web.
+Eager to learn new technologies and developing acquired skills.
+
+Student
+--------------------------
+
+Third-year CS student at AGH University of Krakow.
+Enhancing both practical and theoretical knowledge in software-development-connected areas.
+Burnishing skills through hands-on projects and collaborative work.
 
 
 ### Skills
