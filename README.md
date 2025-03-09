@@ -26,7 +26,7 @@ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark" style="background-color:red;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark" styles="background-color:red;"/>
   </a>
 </p>
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark)](https://skillicons.dev)
