@@ -17,22 +17,20 @@ Enhancing both practical and theoretical knowledge in software-development-conne
 Burnishing skills through hands-on projects and collaborative work.  
 
 
-Skills
+Languages I know
 --------------------------
 
-<p align="center" style="background-color:red;">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark&size=10"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark&perline=10"/>
   </a>
 </p>
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,sass,tailwind,threejs,nodejs,express,mongodb,postgres,prisma,regex,git,githubactions,linux,figma,apple&theme=dark)](https://skillicons.dev)
-
-
-Socials
+Technologies I have worked with
 --------------------------
 
-<p align="left"> <a href="https://www.github.com/sKrzysieK" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/krzysztof-sliwinski/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sKrzysieK&theme=react-dark&custom_title=Github%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,sass,tailwind,threejs,nodejs,express,mongodb,postgres,prisma,regex,git,github,githubactions,cmake,linux,figma,apple&theme=dark&perline=10"/>
+  </a>
+</p>
