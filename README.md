@@ -20,9 +20,9 @@ Burnishing skills through hands-on projects and collaborative work.
 Skills
 --------------------------
 
-<p align="center">
+<p align="center" style="background-color:red;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark&size=10" styles="background-color:red;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark&size=10"/>
   </a>
 </p>
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark)](https://skillicons.dev)
