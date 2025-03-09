@@ -26,7 +26,7 @@ Skills
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,java,kotlin,c,cpp,bash&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,postgres,prisma,regex,git,githubactions,linux,bootstrap,sass,tailwind,threejs,figma,apple&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,sass,tailwind,threejs,nodejs,express,mongodb,postgres,prisma,regex,git,githubactions,linux,figma,apple&theme=dark)](https://skillicons.dev)
 
 
 Socials
